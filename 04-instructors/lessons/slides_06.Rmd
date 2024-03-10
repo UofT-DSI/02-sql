@@ -167,7 +167,11 @@ class: left, top, inverse
 
 ### Pakistani Computerized National ID Card
 
+<<<<<<< HEAD
 - **What values systems are embedded in databases and data systems you encounter in your day-to-day life?**
+=======
+- **What values systems are embeddedd in databases and data systems you encounter in your day-to-day life?**
+>>>>>>> 215a121 (minor slide 5, major slide 6)
 
 --
 
@@ -528,6 +532,7 @@ avg_mass <- sqldf('SELECT DISTINCT species, sex, AVG(body_mass_g) as avg_mass
 ---
 
 class: middle, center, inverse
+<<<<<<< HEAD
 **What questions do you have about anything from today?**
 
 
@@ -535,3 +540,6 @@ class: middle, center, inverse
 #library(renderthis)
 #renderthis::to_pdf("~/Documents/GitHub/02-intro_sql/Slides/slides_06.Rmd")
 ```
+=======
+**What questions do you have about anything from today?**
+>>>>>>> 215a121 (minor slide 5, major slide 6)
