@@ -304,6 +304,7 @@ VALUES ('1', 'Habanero Peppers - Organic', 'medium', '1', 'lbs', 'Fresh Fruits &
 
 
 ---
+<<<<<<< HEAD
 class: top, left, inverse
 # CSV
 
@@ -358,6 +359,8 @@ write.CSV(db_df, file = "database-R.CSV")
 ```
 
 ---
+=======
+>>>>>>> 8111af9 (slides 5)
 
 class: top, left, inverse
 #CSV
